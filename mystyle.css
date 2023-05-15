@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(247, 184, 163);
+}
+.h1{
+    border-radius: 70%;
+    text-align: center;
+    color:white;
+    font-style:oblique;
+    background-color: red;
+}
+.h2{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: red;
+    font-style:oblique;
+    border-radius: 60%;
+}
+.h3{
+    text-align: center;
+    color:white;
+    font-style: italic;
+    border-radius: 100%;
+    background-color: red;
+}
+.h4{
+    color:rgb(98, 6, 6);
+    text-decoration:underline;
+}
+.ul{
+    text-align: center;
+    list-style-type:none;
+    margin: 0px;
+}
+.li a{
+    float: left;
+    padding: 5px;
+    text-align: center;
+}
+.ol{
+    text-align:center;
+    list-style-position: inside;
+    list-style-type:disc ;
+}
+.ol1{
+    text-align: center;
+    list-style-type:decimal;
+    list-style-position: inside;
+}
+.nav{
+    margin-top: 0px;
+    text-align: center;
+    word-spacing: normal;
+    height: 80px;
+}
+
